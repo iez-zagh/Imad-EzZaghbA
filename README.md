@@ -12,12 +12,8 @@
 <br>
 <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iez-zagh&layout=compact&theme=dark">
 <br>
-<a width="80%" href="https://wakatime.com/@018cee35-424f-430f-9ad1-79fee29d80cf"><img width=35% src="https://wakatime.com/badge/user/018cee35-424f-430f-9ad1-79fee29d80cf.svg" alt="Total time coded since Oct 30 2023" /></a>
+<a width="80%" href="https://wakatime.com/@018d16f4-9561-4744-9338-4968825856af"><img width=35% src="https://wakatime.com/badge/user/018d16f4-9561-4744-9338-4968825856af.svg" alt="Total time coded since Jan 17 2024" /></a>
   <div>
-<!--
-**kaboussi00/kaboussi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 👋 Hi, I’m @Imad-EzZaghbA
 - 👀 I’m a student at 1337 coding school
