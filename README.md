@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <div align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/kaboussi" alt="iez-zagh's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/iez-zagh" alt="iez-zagh's 42 stats" /></a>
 
 <br>
-<a width="80%" href="https://github.com/kaboussi00?tab=repositories">
+<a width="80%" href="https://github.com/mad-EzZaghbA?tab=repositories">
    <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad-EzZaghbA&theme=dark&layout=compact&card_width=445px"/>
 </a>
 <br>
